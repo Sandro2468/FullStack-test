@@ -75,7 +75,7 @@ const Login = () => {
           className="title"
           style={{ textAlign: "left", fontSize: "1.5rem" }}
         >
-          Wellcome Back!
+          Welcome Back!
         </Typography.Title>
         <Typography.Title
           level={3}
